@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mycologiafennicapt12kars_0009.png"; bbox 0 0 1856 3177; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 92 751 1410 862">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 92 751 1410 862">
+     <span class='ocr_line' id='line_1_1' title="bbox 92 751 1410 862; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 92 751 780 859; x_wconf 74' lang='lat' dir='ltr'><strong>MYCOLOGIA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 875 752 1410 862; x_wconf 79' lang='lat' dir='ltr'><strong>FENNICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 412 1273 1105 1336">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 412 1273 1105 1336">
+     <span class='ocr_line' id='line_1_2' title="bbox 412 1273 1105 1336; baseline 0.003 -12"><span class='ocrx_word' id='word_1_3' title='bbox 412 1273 477 1324; x_wconf 90' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 526 1276 597 1324; x_wconf 91' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 644 1274 1105 1336; x_wconf 78' lang='lat' dir='ltr'>KARSTEN,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 457 1382 1073 1426">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 457 1382 1073 1426">
+     <span class='ocr_line' id='line_1_3' title="bbox 457 1382 1073 1426; baseline 0.002 -11"><span class='ocrx_word' id='word_1_6' title='bbox 457 1382 687 1426; x_wconf 55' lang='lat' dir='ltr'><strong>Phys-Mam.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 721 1384 884 1423; x_wconf 79' lang='lat' dir='ltr'>Doctorc,</span> <span class='ocrx_word' id='word_1_8' title='bbox 915 1384 961 1416; x_wconf 77' lang='lat' dir='ltr'><strong>Le</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 965 1387 1073 1418; x_wconf 72' lang='lat' dir='ltr'>ccccccc</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 602 1688 907 1722">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 602 1688 907 1722">
+     <span class='ocr_line' id='line_1_4' title="bbox 602 1688 907 1722; baseline 0.007 -2"><span class='ocrx_word' id='word_1_10' title='bbox 602 1688 698 1721; x_wconf 78' lang='lat' dir='ltr'><strong>PAR</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 701 1689 907 1722; x_wconf 82' lang='lat' dir='ltr'>SSSSSS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 357 1837 1150 1883">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 357 1837 1150 1883">
+     <span class='ocr_line' id='line_1_5' title="bbox 357 1837 1150 1883; baseline 0.004 -3"><span class='ocrx_word' id='word_1_12' title='bbox 357 1837 1150 1883; x_wconf 81' lang='lat' dir='ltr'><strong>DISCOMYCETES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 556 2137 913 2156">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 556 2137 965 2156">
+     <span class='ocr_line' id='line_1_6' title="bbox 556 2137 913 2156; baseline 0.005 -9"><span class='ocrx_word' id='word_1_13' title='bbox 556 2137 913 2156; x_wconf 36' lang='lat' dir='ltr'><strong>ffl—-Qfflffi</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
